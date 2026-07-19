@@ -14,11 +14,11 @@ Open http://localhost:4173/.
 
 ## Publication gate
 
-Before publishing, obtain approval and replace `https://lumina-30.github.io/lumina30-wiki/lumina30-wiki-poc` in canonical URLs, sitemap, and robots.txt with the approved public base URL. Rebuild and re-run checks.
+Before publishing, obtain approval and replace `https://example.invalid/lumina30-wiki-poc` in canonical URLs, sitemap, and robots.txt with the approved public base URL. Rebuild and re-run checks.
 
 ## Languages
 
 - English pages remain at their original paths.
-- Japanese counterparts are under `/ja/` with matching slugs.
+- Japanese counterparts are under `/ja/` and use a `-ja.html` suffix so every HTML basename remains unique even if folder hierarchy is lost during upload.
 - Every paired HTML page includes visible language switching and reciprocal `hreflang` links.
-- Preview Japanese at http://localhost:4173/ja/.
+- Preview Japanese at http://localhost:4173/ja/index-ja.html.

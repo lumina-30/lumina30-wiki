@@ -2,18 +2,18 @@
 
 ## 追加
 
-- `ja/index.html`
-- `ja/sources.html`
-- `ja/lumina-30-overview.html`
-- `ja/effective-human-refusal.html`
-- `ja/irreversible-escalation.html`
-- `ja/one-question-pilot.html`
-- `ja/ai-stop-authority.html`
-- `ja/pre-incident-boundary-review.html`
-- `ja/ai-incident-review.html`
-- `ja/evidence-preservation.html`
-- `ja/human-control-human-override.html`
-- `ja/reversible-prosperity-path.html`
+- `ja/index-ja.html`
+- `ja/sources-ja.html`
+- `ja/lumina-30-overview-ja.html`
+- `ja/effective-human-refusal-ja.html`
+- `ja/irreversible-escalation-ja.html`
+- `ja/one-question-pilot-ja.html`
+- `ja/ai-stop-authority-ja.html`
+- `ja/pre-incident-boundary-review-ja.html`
+- `ja/ai-incident-review-ja.html`
+- `ja/evidence-preservation-ja.html`
+- `ja/human-control-human-override-ja.html`
+- `ja/reversible-prosperity-path-ja.html`
 - `EN_JA_MAPPING.md`
 - `JA_TRANSLATION_NOTES.md`
 - `CHANGES_JA.md`
@@ -26,8 +26,9 @@
 - `llms.txt`：日本語概念と日本語出典ページを追加
 - `sitemap.xml`：EN/JA 24 URLと相互hreflangを収録
 - `README.md`：多言語構造と日本語プレビュー方法を追加
+- JA HTML 12ページ：basename衝突を防ぐため `-ja.html` 接尾辞を使用
 
 ## 変更なし
 
 - `assets/style.css`
-- `robots.txt`（sitemap URLは従来どおり `lumina-30.github.io/lumina30-wiki`）
+- `robots.txt`（sitemap URLは従来どおり `example.invalid`）

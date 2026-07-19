@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lumina-30.github.io/lumina30-wiki/lumina30-wiki-poc/sitemap.xml
+Sitemap: https://example.invalid/lumina30-wiki-poc/sitemap.xml
