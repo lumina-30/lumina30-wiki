@@ -31,4 +31,4 @@
 ## 変更なし
 
 - `assets/style.css`
-- `robots.txt`（sitemap URLは従来どおり `example.invalid`）
+- `robots.txt`（正式sitemap URLへ更新）

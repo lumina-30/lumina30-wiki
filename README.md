@@ -12,9 +12,9 @@ python3 -m http.server 4173
 
 Open http://localhost:4173/.
 
-## Publication gate
+## Public URL
 
-Before publishing, obtain approval and replace `https://example.invalid/lumina30-wiki-poc` in canonical URLs, sitemap, and robots.txt with the approved public base URL. Rebuild and re-run checks.
+https://lumina-30.github.io/lumina30-wiki/
 
 ## Languages
 
