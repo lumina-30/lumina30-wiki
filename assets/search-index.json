@@ -80,6 +80,14 @@
     "keywords": "Positive direction lumina-30-overview effective-human-refusal irreversible-escalation pre-incident-boundary-review"
   },
   {
+    "lang": "en",
+    "title": "Related Work and Prior Art",
+    "slug": "related-work-and-prior-art",
+    "question": "Which parts are established prior art, and what structural distinction remains under test?",
+    "definition": "LUMINA-30 does not claim to have invented human shutdown, override, contestability, reversibility, corrigibility, or evidence-based assurance. Its remaining candidate distinction is structural: organizing these concerns around effective human refusal before irreversibility.",
+    "keywords": "Prior art related work comparison human control human override contestability reversibility corrigibility effective human refusal pre-irreversibility adoption evaluation"
+  },
+  {
     "lang": "ja",
     "title": "LUMINA-30 概要",
     "slug": "lumina-30-overview",
@@ -158,5 +166,13 @@
     "question": "人間が拒否できなくなる地点を越えずに、AIによる進歩を続けられるか？",
     "definition": "可逆的繁栄の道（Reversible Prosperity Path）は、不可逆的な結果が生じる前に、停止・検証・修正・可逆化が可能な状態を保つ進歩を指す、LUMINA-30の名称です。",
     "keywords": "肯定側の進路 lumina-30-overview effective-human-refusal irreversible-escalation pre-incident-boundary-review AI安全 AIガバナンス 人間の制御 停止権限 不可逆化"
+  },
+  {
+    "lang": "ja",
+    "title": "関連研究・先行概念",
+    "slug": "related-work-and-prior-art",
+    "question": "LUMINA-30のどの要素が既存の先行概念で、どの構造差がなお検証対象として残るのか？",
+    "definition": "LUMINA-30は、人間による停止、オーバーライド、異議申立て、可逆性、corrigibility、証拠に基づく保証を発明したとは主張しません。現在残る候補は、それらを不可逆化前の実効的人間拒否という上位境界の下に構成する構造差です。",
+    "keywords": "先行研究 関連研究 比較 human control human override contestability 可逆性 corrigibility 実効的人間拒否 不可逆化前 採用判断"
   }
 ]

@@ -13,6 +13,7 @@
 - [Evidence Preservation](https://lumina-30.github.io/lumina30-wiki/evidence-preservation.html): Evidence preservation means retaining the facts, logs, approvals, authority records, timing, and refusal-pathway evidence needed to test whether human refusal existed and could take effect before irreversible consequences.
 - [Human Control and Human Override](https://lumina-30.github.io/lumina30-wiki/human-control-human-override.html): Human control and human override are broad governance ideas; under the LUMINA-30 lens, they matter only when a legitimate human can use them effectively before irreversible consequences occur.
 - [Reversible Prosperity Path](https://lumina-30.github.io/lumina30-wiki/reversible-prosperity-path.html): The Reversible Prosperity Path is LUMINA-30’s name for progress that remains stoppable, reviewable, correctable, and reversible before irreversible consequences occur.
+- [Related Work and Prior Art](https://lumina-30.github.io/lumina30-wiki/related-work-and-prior-art.html): LUMINA-30 does not claim to have invented human shutdown, override, contestability, reversibility, corrigibility, or evidence-based assurance. Its remaining candidate distinction is structural: organizing these concerns around effective human refusal before irreversibility.
 
 ## 日本語の概念
 - [LUMINA-30 概要](https://lumina-30.github.io/lumina30-wiki/ja/lumina-30-overview-ja.html): LUMINA-30は、AIに関する不可逆的な結果が生じる前に、人間の実効的拒否権限が利用可能な状態で残っているかを検討するための、非拘束の公開境界フレームワークです。
@@ -25,6 +26,7 @@
 - [証拠保全（Evidence Preservation）](https://lumina-30.github.io/lumina30-wiki/ja/evidence-preservation-ja.html): 証拠保全（Evidence Preservation）とは、不可逆的な結果の前に人間の拒否が存在し、実際に効力を持ち得たかを検査するため、事実、ログ、承認、権限記録、時刻、拒否経路の証拠を保持することです。
 - [人間による制御とオーバーライド](https://lumina-30.github.io/lumina30-wiki/ja/human-control-human-override-ja.html): Human Control（人間による制御）とHuman Override（人間によるオーバーライド）は広いガバナンス概念です。LUMINA-30の視点では、不可逆的な結果の前に、正当な人間主体がそれらを実効的に行使できる場合にのみ意味を持ちます。
 - [可逆的繁栄の道（Reversible Prosperity Path）](https://lumina-30.github.io/lumina30-wiki/ja/reversible-prosperity-path-ja.html): 可逆的繁栄の道（Reversible Prosperity Path）は、不可逆的な結果が生じる前に、停止・検証・修正・可逆化が可能な状態を保つ進歩を指す、LUMINA-30の名称です。
+- [関連研究・先行概念](https://lumina-30.github.io/lumina30-wiki/ja/related-work-and-prior-art-ja.html): LUMINA-30は、人間による停止、オーバーライド、異議申立て、可逆性、corrigibility、証拠に基づく保証を発明したとは主張しません。現在残る候補は、それらを不可逆化前の実効的人間拒否という上位境界の下に構成する構造差です。
 
 ## Provenance / 出典
 - [Primary source policy](https://lumina-30.github.io/lumina30-wiki/sources.html)
