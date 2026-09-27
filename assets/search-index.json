@@ -88,6 +88,14 @@
     "keywords": "Prior art related work comparison human control human override contestability reversibility corrigibility effective human refusal pre-irreversibility adoption evaluation"
   },
   {
+    "lang": "en",
+    "title": "The Refusal Option",
+    "slug": "the-refusal-option",
+    "question": "Can an independent Human NO still change the outcome before irreversibility?",
+    "definition": "Paper 5 is the human-centered research layer associated with LUMINA-30. It examines whether Human NO remains operationally effective, temporally sufficient, causally meaningful, and sufficiently independent before irreversibility; it does not replace or redefine the LUMINA-30 canon.",
+    "keywords": "Paper 5 The Refusal Option RET effective human refusal human standing temporal sufficiency causal efficacy execution independence epistemic autonomy LUMINA-30 research"
+  },
+  {
     "lang": "ja",
     "title": "LUMINA-30 概要",
     "slug": "lumina-30-overview",
@@ -174,5 +182,13 @@
     "question": "LUMINA-30のどの要素が既存の先行概念で、どの構造差がなお検証対象として残るのか？",
     "definition": "LUMINA-30は、人間による停止、オーバーライド、異議申立て、可逆性、corrigibility、証拠に基づく保証を発明したとは主張しません。現在残る候補は、それらを不可逆化前の実効的人間拒否という上位境界の下に構成する構造差です。",
     "keywords": "先行研究 関連研究 比較 human control human override contestability 可逆性 corrigibility 実効的人間拒否 不可逆化前 採用判断"
+  },
+  {
+    "lang": "ja",
+    "title": "The Refusal Option（第5論文）",
+    "slug": "the-refusal-option",
+    "question": "不可逆化前に、独立したHuman NOは実際に結果を変えられるか？",
+    "definition": "第5論文はLUMINA-30に関連する人間側の研究レイヤーです。不可逆化前にHuman NOが実務上行使可能で、時間的に間に合い、因果的に結果を変え、十分な独立性を保つかを検討し、LUMINA-30正典を置換・再定義しません。",
+    "keywords": "第5論文 The Refusal Option RET 実効的人間拒否 human standing 時間的十分性 因果的有効性 実行独立性 認識的自律性 LUMINA-30 研究"
   }
 ]

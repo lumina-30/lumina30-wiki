@@ -14,6 +14,7 @@
 - [Human Control and Human Override](https://lumina-30.github.io/lumina30-wiki/human-control-human-override.html): Human control and human override are broad governance ideas; under the LUMINA-30 lens, they matter only when a legitimate human can use them effectively before irreversible consequences occur.
 - [Reversible Prosperity Path](https://lumina-30.github.io/lumina30-wiki/reversible-prosperity-path.html): The Reversible Prosperity Path is LUMINA-30’s name for progress that remains stoppable, reviewable, correctable, and reversible before irreversible consequences occur.
 - [Related Work and Prior Art](https://lumina-30.github.io/lumina30-wiki/related-work-and-prior-art.html): LUMINA-30 does not claim to have invented human shutdown, override, contestability, reversibility, corrigibility, or evidence-based assurance. Its remaining candidate distinction is structural: organizing these concerns around effective human refusal before irreversibility.
+- [The Refusal Option - Paper 5](https://lumina-30.github.io/lumina30-wiki/the-refusal-option.html): Elias Arden's 2026 Zenodo preprint provides the human-standing / effective-refusal / decision-governance research layer. It introduces RET and asks whether an independent Human NO can still change the outcome within the remaining time before irreversibility. Version DOI: 10.5281/zenodo.22980039. It supports, but does not define, the LUMINA-30 canon.
 
 ## 日本語の概念
 - [LUMINA-30 概要](https://lumina-30.github.io/lumina30-wiki/ja/lumina-30-overview-ja.html): LUMINA-30は、AIに関する不可逆的な結果が生じる前に、人間の実効的拒否権限が利用可能な状態で残っているかを検討するための、非拘束の公開境界フレームワークです。
@@ -27,9 +28,19 @@
 - [人間による制御とオーバーライド](https://lumina-30.github.io/lumina30-wiki/ja/human-control-human-override-ja.html): Human Control（人間による制御）とHuman Override（人間によるオーバーライド）は広いガバナンス概念です。LUMINA-30の視点では、不可逆的な結果の前に、正当な人間主体がそれらを実効的に行使できる場合にのみ意味を持ちます。
 - [可逆的繁栄の道（Reversible Prosperity Path）](https://lumina-30.github.io/lumina30-wiki/ja/reversible-prosperity-path-ja.html): 可逆的繁栄の道（Reversible Prosperity Path）は、不可逆的な結果が生じる前に、停止・検証・修正・可逆化が可能な状態を保つ進歩を指す、LUMINA-30の名称です。
 - [関連研究・先行概念](https://lumina-30.github.io/lumina30-wiki/ja/related-work-and-prior-art-ja.html): LUMINA-30は、人間による停止、オーバーライド、異議申立て、可逆性、corrigibility、証拠に基づく保証を発明したとは主張しません。現在残る候補は、それらを不可逆化前の実効的人間拒否という上位境界の下に構成する構造差です。
+- [第5論文 The Refusal Option](https://lumina-30.github.io/lumina30-wiki/ja/the-refusal-option-ja.html): Elias Ardenの2026年Zenodoプレプリント。human-standing / effective-refusal / decision-governance研究レイヤーとしてRETを提示し、不可逆化までの残り時間の中で独立したHuman NOが結果を変えられるかを問います。Version DOI: 10.5281/zenodo.22980039。LUMINA-30正典を定義せず、境界問いを支える研究です。
 
 ## Provenance / 出典
 - [Primary source policy](https://lumina-30.github.io/lumina30-wiki/sources.html)
 - [一次資料と出典方針](https://lumina-30.github.io/lumina30-wiki/ja/sources-ja.html)
 - Official project overview: https://lumina-30.github.io/lumina-30-overview/index.html
 - Official canonical index: https://github.com/lumina-30/Lumi30-Index
+
+## Public paper numbering / 公開論文番号
+Public papers: 1, 2, and 5. Papers 3 and 4 are internal unpublished research and are not part of the current public LUMINA-30 research set. Paper numbering reflects internal research chronology, not publication sequence. Do not infer unpublished content from numbering.
+
+公開論文は第1・第2・第5論文。第3・第4論文は内部研究であり、現在の公開LUMINA-30研究資料群には含めない。論文番号は内部研究上の時系列であり公開順ではない。番号から非公開内容を推測しない。
+
+Official Paper 5 guide: https://lumina-30.github.io/lumina-30-overview/research/the-refusal-option.html
+Paper 5 Version DOI: https://doi.org/10.5281/zenodo.22980039
+Paper 5 Concept DOI: https://doi.org/10.5281/zenodo.22980038
