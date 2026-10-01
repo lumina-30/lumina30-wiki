@@ -13,6 +13,7 @@
 | [Evidence Preservation](evidence-preservation.html) | [証拠保全（Evidence Preservation）](ja/evidence-preservation-ja.html) |
 | [Human Control and Human Override](human-control-human-override.html) | [人間による制御とオーバーライド](ja/human-control-human-override-ja.html) |
 | [Reversible Prosperity Path](reversible-prosperity-path.html) | [可逆的繁栄の道（Reversible Prosperity Path）](ja/reversible-prosperity-path-ja.html) |
+| [PISF — Pre-Irreversibility Safety Framework](pre-irreversibility-safety-framework.html) | [PISF — Pre-Irreversibility Safety Framework](ja/pre-irreversibility-safety-framework-ja.html) |
 | [Primary source policy](sources.html) | [一次資料と出典方針](ja/sources-ja.html) |
 
 All pairs use reciprocal `hreflang=en`, `hreflang=ja`, and `hreflang=x-default`. English remains the x-default route for this PoC.
