@@ -54,3 +54,28 @@ html[data-l30-theme="light"] .compare-row>div:first-child{background:#f0eee6}
   .top nav{gap:10px}
   .l30-theme-control{margin-left:auto}
 }
+/* L30 dark-theme contrast correction */
+@media(prefers-color-scheme:dark){
+  :root:not([data-l30-theme="light"]) .notice{
+    background:#17212b;color:#e8f0f5
+  }
+  :root:not([data-l30-theme="light"]) .notice strong{color:#f2c66d}
+  :root:not([data-l30-theme="light"]) .actions .primary{
+    background:#274b3e;color:#f4fbf7;border-color:#6fa98f
+  }
+  :root:not([data-l30-theme="light"]) .q2{color:#17202b}
+  :root:not([data-l30-theme="light"]) .bridge{
+    background:#173a31;color:#eef7f2
+  }
+}
+html[data-l30-theme="dark"] .notice{
+  background:#17212b;color:#e8f0f5
+}
+html[data-l30-theme="dark"] .notice strong{color:#f2c66d}
+html[data-l30-theme="dark"] .actions .primary{
+  background:#274b3e;color:#f4fbf7;border-color:#6fa98f
+}
+html[data-l30-theme="dark"] .q2{color:#17202b}
+html[data-l30-theme="dark"] .bridge{
+  background:#173a31;color:#eef7f2
+}
