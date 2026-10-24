@@ -8,6 +8,7 @@ const d=document.querySelector('#search'),q=document.querySelector('#q'),r=docum
   box.setAttribute('role','group');
   box.setAttribute('aria-label',lang==='ja'?'表示設定':'Display settings');
   box.innerHTML=
+    '<button type="button" id="l30-back" aria-label="'+(lang==='ja'?'Wiki内で戻る':'Back within Wiki')+'">'+(lang==='ja'?'← 戻る':'← Back')+'</button>'+
     '<button type="button" id="l30-reload" aria-label="'+(lang==='ja'?'再読み込み':'Reload')+'">↻</button>'+
     '<label for="l30-theme-select">'+(lang==='ja'?'表示':'Theme')+'</label>'+
     '<select id="l30-theme-select" aria-label="'+(lang==='ja'?'表示テーマ':'Color theme')+'">'+
@@ -20,6 +21,7 @@ const d=document.querySelector('#search'),q=document.querySelector('#q'),r=docum
 
   const root=document.documentElement;
   const select=box.querySelector('#l30-theme-select');
+  const back=box.querySelector('#l30-back');
   const reload=box.querySelector('#l30-reload');
   const key='l30-color-theme';
   let saved='auto';
@@ -39,5 +41,14 @@ const d=document.querySelector('#search'),q=document.querySelector('#q'),r=docum
   select.value=saved;
   applyTheme(saved);
   select.addEventListener('change',()=>applyTheme(select.value));
+  back.addEventListener('click',()=>{
+    const wikiBase=location.origin+'/lumina30-wiki/';
+    const ref=document.referrer||'';
+    if(ref.startsWith(wikiBase)){
+      history.back();
+    }else{
+      location.href=lang==='ja'?wikiBase+'ja/index-ja.html':wikiBase;
+    }
+  });
   reload.addEventListener('click',()=>location.reload());
 })();
