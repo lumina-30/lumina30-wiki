@@ -79,3 +79,21 @@ html[data-l30-theme="dark"] .q2{color:#17202b}
 html[data-l30-theme="dark"] .bridge{
   background:#173a31;color:#eef7f2
 }
+
+/* L30 related-work dark-theme text contrast: 3 affected selectors */
+@media(prefers-color-scheme:dark){
+  :root:not([data-l30-theme="light"]) .compare-head,
+  :root:not([data-l30-theme="light"]) .report-template{
+    background:#17212b;color:#e8f0f5
+  }
+  :root:not([data-l30-theme="light"]) .pilot-primary{
+    background:#274b3e;color:#f4fbf7;border-color:#6fa98f
+  }
+}
+html[data-l30-theme="dark"] .compare-head,
+html[data-l30-theme="dark"] .report-template{
+  background:#17212b;color:#e8f0f5
+}
+html[data-l30-theme="dark"] .pilot-primary{
+  background:#274b3e;color:#f4fbf7;border-color:#6fa98f
+}
